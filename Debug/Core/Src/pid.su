@@ -1,0 +1,8 @@
+pid.c:36:6:resetPID	8	static
+pid.c:56:8:limitAngleCorrection	16	static
+pid.c:64:8:limitDistanceCorrection	16	static
+pid.c:72:8:limitFinalPWM	16	static
+pid.c:80:6:updatePID	16	static
+pid.c:124:6:setPIDGoalD	16	static
+pid.c:132:6:setPIDGoalA	16	static
+pid.c:140:8:PIDdone	4	static
